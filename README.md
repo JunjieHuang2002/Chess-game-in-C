@@ -145,7 +145,9 @@ The game state of the above example will look like:
 ```
 
 ## Project structures
-There are 2 directories `include` and `src` in this project. In `src`, there is a special file `game_database.txt` that stores game states. The program might not be able to run if removed this file.:dizzy_face:
+There are 2 directories `include` and `src` in this project. In `src`, there is a special file `game_database.txt` that stores game states. 
+
+:dizzy_face:The program might not be able to run if removed this file.
 
 ## Insufficient
 Some complex rulings such as en passant, castling, checking, and checkmating are excluded.
