@@ -1,0 +1,13 @@
+# Obgject file
+*.o
+
+# Executables
+*.exe
+*.out
+
+# Directory
+play/
+
+# Others
+.vscode/
+fen.txt
